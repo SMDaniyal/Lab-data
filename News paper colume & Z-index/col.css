@@ -1,0 +1,14 @@
+.colume{
+    width: 200px;
+    text-align: justify;
+    float: left;
+    margin: 20px;
+    padding: 10px
+}
+.z-index{
+    position: fixed;
+    top: 100px;
+    left: 50px;
+    z-index: -10;
+    background-color: blue
+}

@@ -1,0 +1,11 @@
+var name=prompt("Name","Enter Your Enter YOur Name");
+document.write("Name :" + name);
+document.write("<br>");
+var Rollno= parseInt(prompt("Roll Number","Enter Your Roll no"));
+document.write("Roll No :" + Rollno);
+document.write("<br>");
+var email = prompt("Email","Enter Your Email");
+document.write("Email :" + email);
+document.write("<br>");
+var age = prompt("Age","Enter Your Age");
+document.write("Age :" + age);
