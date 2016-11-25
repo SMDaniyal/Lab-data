@@ -47,4 +47,4 @@ function stop(){
 
 setInterval(stop,1000)
 
- 
+ document.getElementById('stopWatch').
